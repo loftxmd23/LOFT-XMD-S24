@@ -49,11 +49,11 @@
 
 <p align="center">
   <a href="https://wa.me/255778018545">
-    <img src="https://img.shields.io/badge/WhatsApp-click-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white" width="230" height="38" alt="WhatsApp click Badge 1"/>
+    <img src="https://img.shields.io/badge/WhatsApp-click-FFD700?style=for-the-badge&logo=whatsapp&logoColor=white" width="230" height="38" alt="WhatsApp click Yellow"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/255778018545">
-    <img src="https://img.shields.io/badge/WhatsApp-click-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white" width="230" height="38" alt="WhatsApp click Badge 2"/>
+    <img src="https://img.shields.io/badge/WhatsApp-click-800080?style=for-the-badge&logo=whatsapp&logoColor=white" width="230" height="38" alt="WhatsApp click Purple"/>
   </a>
 </p>
 
