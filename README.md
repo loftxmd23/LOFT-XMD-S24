@@ -10,7 +10,8 @@
 
 #        LOFT-XMD S24 ©2025
 
-![IMG-20250527-WA0045](https://github.com/user-attachments/assets/dcf22565-1e07-4287-91ea-5a31f3dd408b)
+![IMG-20250527-WA0046](https://github.com/user-attachments/assets/52985e27-2108-4d21-b355-b7362ea2dca7)
+
 
 
 
