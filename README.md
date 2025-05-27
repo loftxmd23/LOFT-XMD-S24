@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://loft-session-id-6.onrender.com/">
-    <img title="GET SESSION ID" src="https://img.shields.io/badge/GET SESSION ID-HERE-ff69b4?style=for-the-badge&logo=render&logoColor=white&labelColor=ff69b4&color=ff69b4" width="260" height="45"/>
+    <img title="GET SESSION ID" src="https://img.shields.io/badge/GET SESSION ID-HERE-0000FF?style=for-the-badge&logo=render&logoColor=white&labelColor=0000FF&color=0000FF" width="260" height="45"/>
   </a>
 </div>
 
