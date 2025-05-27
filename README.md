@@ -33,10 +33,9 @@
 
 <div align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/loftxmd23/LOFT-MD">
-    <img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-ff69b4?style=for-the-badge&logo=heroku&logoColor=white&labelColor=ff69b4&color=ff69b4" width="230" height="38.1"/>
+    <img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-red?style=for-the-badge&logo=heroku&logoColor=white&labelColor=red&color=red" width="230" height="38.1"/>
   </a>
 </div>
-
 
 
 
