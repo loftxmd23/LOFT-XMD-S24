@@ -21,7 +21,7 @@
 
 
 <div align="center">
-  <a href="https://loft-session-id-6.onrender.com/">
+  <a href="https://fuck-you-lspl.onrender.com/">
     <img title="GET SESSION ID" src="https://img.shields.io/badge/GET SESSION ID-HERE-0000FF?style=for-the-badge&logo=render&logoColor=white&labelColor=0000FF&color=0000FF" width="260" height="45"/>
   </a>
 </div>
