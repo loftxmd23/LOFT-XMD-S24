@@ -17,9 +17,20 @@
 
 
 
-###          1️⃣ **Fork & Star**
-[![Fork](https://img.shields.io/github/forks/9Wish882/Loft-xmd-s24?label=FORK&style=social&logo=git&logoColor=yellow)](https://github.com/9Wish882/Loft-xmd-s24/fork)
-[![Star](https://img.shields.io/github/stars/9Wish882/Loft-xmd-s24?label=STAR&style=social&logo=github)](https://github.com/9Wish882/Loft-xmd-s24)
+
+<center>
+
+🚀 *1️⃣ FORK & STAR the Repository!*
+
+[![Fork](https://img.shields.io/github/forks/9Wish882/Loft-xmd-s24?label=📂%20FORK&style=social&logo=git&logoColor=yellow)](https://github.com/9Wish882/Loft-xmd-s24/fork)
+  
+[![Star](https://img.shields.io/github/stars/9Wish882/Loft-xmd-s24?label=🌟%20STAR&style=social&logo=github)](https://github.com/9Wish882/Loft-xmd-s24)
+
+**➡️ Click “FORK” to create your own version  
+⭐ Click “STAR” to support and get updates!**
+
+</center>
+
 
 
 
