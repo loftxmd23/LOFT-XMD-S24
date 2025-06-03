@@ -26,13 +26,8 @@
 ➤ 𝐂𝐫𝐞𝐚𝐭𝐞 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐜𝐥𝐨𝐧𝐞 𝐛𝐲 𝐟𝐨𝐫𝐤𝐢𝐧𝐠  
 ➤ 𝐒𝐡𝐨𝐰 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐭𝐚𝐫 🌟
 
-<a href="https://github.com/9Wish882/Loft-xmd-s24/fork">
-  <img src="https://img.shields.io/github/forks/9Wish882/Loft-xmd-s24?label=📂%20FORK&style=social&logo=git&logoColor=yellow" alt="Fork">
-</a>
-
-<a href="https://github.com/9Wish882/Loft-xmd-s24">
-  <img src="https://img.shields.io/github/stars/9Wish882/Loft-xmd-s24?label=🌟%20STAR&style=social&logo=github" alt="Star">
-</a>
+[![Fork](https://img.shields.io/github/forks/9Wish882/Loft-xmd-s24?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/Loft-xmd-s24/fork)
+[![Star](https://img.shields.io/github/stars/9Wish882/Loft-xmd-s24?label=STAR&style=social&logo=github)](https://github.com/9Wish882/Loft-xmd-s24)
 
 ━━━━━━━━━━━━━━━━━━━  
 ⚡ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ꧁𓆩𝙎𝙞𝙧 𝙇𝙊𝙁𝙏𓆪꧂ ⚡  
