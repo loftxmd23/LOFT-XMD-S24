@@ -17,6 +17,9 @@
 
 
 
+### 1️⃣ **Fork & Star**
+[![Fork](https://img.shields.io/github/forks/9Wish882/Loft-xmd-s24?label=FORK&style=social&logo=git&logoColor=yellow)](https://github.com/9Wish882/Loft-xmd-s24/fork)
+[![Star](https://img.shields.io/github/stars/9Wish882/Loft-xmd-s24?label=STAR&style=social&logo=github)](https://github.com/9Wish882/Loft-xmd-s24)
 
 
 
