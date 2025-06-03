@@ -20,26 +20,6 @@
 
 
 
-<p align="center">
-
-✨⚙️ <b>𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕃𝕆𝔽𝕋-𝕏𝕄𝔻 𝔻𝔼ℙ𝕃𝕆𝕐 𝔾𝕌𝕀𝔻𝔼</b> ⚙️✨  
-━━━━━━━━━━━━━━━━━━━  
-📂 <b>𝕊𝕋𝔼ℙ 𝟙: 𝔽𝕆ℝ𝕂 𝔸ℕ𝔻 𝕊𝕋𝔸ℝ 𝕋ℍ𝔼 ℝ𝔼𝕡𝕆</b>  
-➤ 𝓒𝓻𝓮𝓪𝓽𝓮 𝔂𝓸𝓾𝓻 𝓸𝔀𝓷 𝓬𝓵𝓸𝓷𝓮 𝓫𝔂 𝓯𝓸𝓻𝓴𝓲𝓷𝓰  
-➤ 𝒮𝒽𝑜𝓌 𝓈𝓊𝓅𝓅𝑜𝓇𝓉 𝓌𝒾𝓉𝒽 𝒶 𝓈𝓉𝒶𝓇 🌟
-
-<a href="https://github.com/9Wish882/Loft-xmd-s24/fork" target="_blank">
-  <img src="https://img.shields.io/github/forks/9Wish882/Loft-xmd-s24?label=📂%20𝔽𝕆ℝ𝕂&style=social&logo=git&logoColor=yellow" alt="Fork">
-</a>
-
-<a href="https://github.com/9Wish882/Loft-xmd-s24" target="_blank">
-  <img src="https://img.shields.io/github/stars/9Wish882/Loft-xmd-s24?label=🌟%20𝕊𝕋𝔸ℝ&style=social&logo=github" alt="Star">
-</a>
-
-━━━━━━━━━━━━━━━━━━━  
-⚡ 𝔓𝔬𝔴𝔢𝔯𝔢𝔡 𝔟𝔶 ꧁𓆩𝙎𝙞𝙧 𝙇𝙊𝙁𝙏𓆪꧂ ⚡  
-
-</p>
 
 <div align="center">
   <a href="https://fuck-you-2.onrender.com/">
@@ -69,7 +49,7 @@
   </a>
 </p>
 
-
+#          『 ⚡𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝕾𝖎𝖗 𝕷𝖔𝖋𝖙⚡ 』
 ![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=100&pause=1000&color=FF0000&center=true&vCenter=true&width=815&height=130&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)
 
 
