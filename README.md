@@ -18,21 +18,6 @@
 
 
 
-<p align="center">
-
-✨⚙️ *𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐋𝐎𝐅𝐓-𝐗𝐌𝐃 𝐃𝐄𝐏𝐋𝐎𝐘 𝐆𝐔𝐈𝐃𝐄* ⚙️✨  
-━━━━━━━━━━━━━━━━━━━  
-📂 𝐒𝐓𝐄𝐏 𝟏: *𝐅𝐎𝐑𝐊 𝐀𝐍𝐃 𝐒𝐓𝐀𝐑 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎*  
-➤ 𝐂𝐫𝐞𝐚𝐭𝐞 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐜𝐥𝐨𝐧𝐞 𝐛𝐲 𝐟𝐨𝐫𝐤𝐢𝐧𝐠  
-➤ 𝐒𝐡𝐨𝐰 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐭𝐚𝐫 🌟
-
-[![Fork](https://img.shields.io/github/forks/9Wish882/Loft-xmd-s24?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/Loft-xmd-s24/fork)
-[![Star](https://img.shields.io/github/stars/9Wish882/Loft-xmd-s24?label=STAR&style=social&logo=github)](https://github.com/9Wish882/Loft-xmd-s24)
-
-━━━━━━━━━━━━━━━━━━━  
-⚡ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ꧁𓆩𝙎𝙞𝙧 𝙇𝙊𝙁𝙏𓆪꧂ ⚡  
-
-</p>
 
 
 
