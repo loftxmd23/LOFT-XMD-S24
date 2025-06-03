@@ -58,9 +58,3 @@
 
 
 
-![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=100&pause=1000&color=FF0000&center=true&vCenter=true&width=815&height=130&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)
-
-
-
-![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=100&pause=1000&color=FF0000&center=true&vCenter=true&width=815&height=130&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)
-
