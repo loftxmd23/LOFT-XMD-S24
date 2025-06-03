@@ -13,6 +13,7 @@
 
 
 
+[![Loft-xmd-s24 Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/loftxmd23/Loft-xmd-s24/fork)
 
 
 
