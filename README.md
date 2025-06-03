@@ -58,3 +58,5 @@
 
 
 
+[![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=60&pause=1000&color=FF0000&center=true&vCenter=true&width=815&height=130&lines=꧁༒☬+𝕃𝕆𝔽𝕋-𝕏𝕄𝔻+☬༒꧂;Welcome+to+a+really+power!)](https://git.io/typing-svg)
+```
