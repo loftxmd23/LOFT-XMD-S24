@@ -64,12 +64,3 @@
 
 ![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=100&pause=1000&color=FF0000&center=true&vCenter=true&width=815&height=130&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)
 
-  ![Rotating Dragon](https://media.giphy.com/media/l0MYA6vW6DrNjOv8M/giphy.gif)
-
-Ili kuweka kwenye README yako, tumia hii code:
-
-```markdown
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYA6vW6DrNjOv8M/giphy.gif" width="300" alt="Rotating Dragon" />
-</p>
-```
