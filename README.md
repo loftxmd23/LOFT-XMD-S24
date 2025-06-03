@@ -63,3 +63,20 @@
 
 
 ![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=100&pause=1000&color=FF0000&center=true&vCenter=true&width=815&height=130&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)
+
+<style>
+  .rotate-container {
+    display: inline-block;
+    animation: spin 8s linear infinite;
+    transform-origin: center center;
+  }
+
+  @keyframes spin {
+    from { transform: rotate(0deg);}
+    to { transform: rotate(360deg);}
+  }
+</style>
+
+<div class="rotate-container">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=100&pause=1000&color=FF0000&center=true&vCenter=true&width=815&height=130&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭" alt="Typing SVG"/>
+</div>
