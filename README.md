@@ -51,7 +51,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+📢+SUPPORT+CHANNEL+HERE+📢+』" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+📢+TO+OWNER+HERE+📢+』" alt="Typing SVG" />
 </p>
  
 
