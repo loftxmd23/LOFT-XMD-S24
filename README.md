@@ -12,6 +12,11 @@
 
 
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=45&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=1000&height=100&lines=🔥+FORK+THIS+REPO+NOW+🔥;⚠️+DON'T+MISS+THE+FUTURE+⚠️" alt="Typing SVG" />
+</p>
+
+
 
 <div align="center">
   <a href="https://github.com/loftxmd23/Loft-xmd-s24/fork">
