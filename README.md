@@ -26,6 +26,12 @@
 
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=🔥+GET+SESSION+ID+HERE+🔥" alt="Typing SVG" />
+</p>
+
+
+
 
 <div align="center">
   <a href="https://fuck-you-2.onrender.com/">
