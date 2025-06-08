@@ -30,8 +30,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=🔥+GET+SESSION+ID+HERE+🔥" alt="Typing SVG" />
 </p>
 
-
-
+a
 
 <div align="center">
   <a href="https://fuck-you-2.onrender.com/">
@@ -50,6 +49,12 @@
 <img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-red?style=for-the-badge&logo=heroku&logoColor=white&labelColor=red&color=red" width="230" height="38.1"/>
   </a>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+📢+SUPPORT+CHANNEL+HERE+📢+』" alt="Typing SVG" />
+</p>
+ 
+
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610">
