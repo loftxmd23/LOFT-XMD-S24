@@ -12,10 +12,6 @@
 
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=45&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=1000&height=100&lines=🔥+FORK+THIS+REPO+NOW+🔥;⚠️+DON'T+MISS+THE+FUTURE+⚠️" alt="Typing SVG" />
-</p>
-
 
 
 <div align="center">
@@ -26,11 +22,6 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=🔥+GET+SESSION+ID+HERE+🔥" alt="Typing SVG" />
-</p>
-
-
 
 <div align="center">
   <a href="https://fuck-you-2.onrender.com/">
@@ -39,10 +30,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=🚀+DEPLOY+ON+HEROKU+HERE+🚀" alt="Typing SVG" />
-</p>
-
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/loftxmd23/sir-loft">
@@ -50,10 +37,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+📢+TO+OWNER+HERE+📢+』" alt="Typing SVG" />
-</p>
- 
 
 
 <div align="center" style="margin-top: 20px;">
